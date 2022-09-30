@@ -1,4 +1,4 @@
-# Computer-Assistant-of-College-Physics-Experiment（大学物理实验计算辅助）
+# Computer-Assistant-of-College-Physics-Experiment（大物实验计算辅助）
 ## 申明
 ### 建立初衷
 1. 锻炼代码能力
